@@ -18,8 +18,9 @@ The username comes from the flight route I take every now and again.
 - working on several projects at the same time.
 
 ## Learning goals
-
-##
+- Learn to construct python packages with several sub packages.
+- Learn to develop LLMs from scratch, so as to not rely on python packages
+- Learn mean field games, to make it part of python package on stochastic processes.
 
 ## Reading list
 Go to my knowledge base, which will be coming up soon. I'll be developing it as a HTML page.
