@@ -5,12 +5,9 @@ The username comes from the flight route I take every now and again.
 
 I am currently:
 
-- 🖥 coding in Python using Pycharm and VSCode
-- ✨ Working on this project [Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
-
-
-
-
+- coding in Python using JupyterLab
+- coding in C++ with Visual Studio
+- working on several projects at the same time.
 
 
 ## Reading list
