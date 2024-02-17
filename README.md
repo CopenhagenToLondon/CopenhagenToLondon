@@ -16,14 +16,14 @@ Increasing my proficiency in:
 
 ## Projects
 - Working on collecting knowledge to add to my [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
+- Developing my Stochastics processes package
+- Developing a large collected package called TMRW for various purposes, such as data extraction, data analysis and quantitative analysis
 
 ## Learning goals
 - Learn to construct python packages with several sub packages.
-- Learn to develop LLMs from scratch, so as to not rely on python packages
+- Learn to develop LLMs from scratch, so as to not rely on python packages.
 - Learn mean field games, to make it part of python package on stochastic processes.
 
-## Reading list
-Go to my knowledge base, which will be coming up soon. I'll be developing it as a HTML page.
 
 ## Contact and connections
 For a moment, due to low income, I am unable to keep my personal website running.
