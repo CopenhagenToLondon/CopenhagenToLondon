@@ -2,10 +2,12 @@ The username comes from the flight route I take every now and again.
 
 ## Short and sweet.
 Working at LD Pensions as a parttime Data analyst.
+
 Doing coding work in:
 - coding in Python using JupyterLab and Spyder
 - coding in C++ with Visual Studio
 - coding in R with RStudio
+  
 Increasing my proficiency in:
 - learning statistical analysis and advanced probability theory
 - learning Actuarial science
