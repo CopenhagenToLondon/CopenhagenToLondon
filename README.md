@@ -10,7 +10,22 @@ As I'm unsure why you've landed on my page, I'll give you three options
 
 If you've just come for a short story about me, continue reading
 
-# Why is your Username Copenhagen to london?
+# Why is your Username Copenhagen To London?
+A long time ago, I met my girlfriend on an online forum, called Personality cafe.
+She is Polish, I'm Danish, she moved to London to study and work. So the username comes from the trip I travel every now and again to see her.
+As of 2024 I'm 29 years old. Short, half czech, half danish man, with a high IQ, I've been tested to have x >= 158 IQ.
+
+I've done nearly everything between heaven and earth. I originally wanted to be an artist, so I went to a design school and managed to win an award and travel to india to participate with my project and two friends.
+
+I've taken part in the academy for talented youths, the youth organization for the natural sciences and the UNF physics summer camp 2016. 
+I've travelled to the US, asia, arabia and Europe, where I frequently to and from Copenhagen, Denmark(my home), Gdynia, Poland(girlfriends family home) and London, UK(girlfriends current home)
+I've two younger brothers, all of us, including my parents work in IT in some way. It goes all the way back to my grandparents, my grandmother doing technical drawings on the old AutoCad software and my grandfather owning one of Denmarks first computers and electronics stores.
+
+In recent years, I've studied math, but failed, because I couldn't pass the course Measures and Integrals. I've worked 4 years for MentorDenmark, 2 years for Denmarks Statistics, 1 year for Lån & Spar Bank and 1 year for DJØF. My most recent relevant position was with LD Pensions, for about 8 months.
+After this I've returned to working as a cleaner and store clerk, which I've also done a lot of earlier in my life. It's hard, but it has built me up to be very resilient and incredibly efficient. I work with IT out of passion, rather than out of a wish for money. It is not uncommon, that I'll be working long hours into the night to research or to reach the level of quality I desire.
+
+
+
 
 Working as a cleaner and store clerk at the moment. So only very little will happen here.\
 For those few who arrive on my page looking to hire me.
