@@ -1,6 +1,17 @@
-*The username comes from the flight route I take every now and again.*
 
-## Short and sweet.
+
+# Short and sweet.
+Dear reader.
+
+As I'm unsure why you've landed on my page, I'll give you three options
+1. You're just curious and want to see what I have to offer - Please continue to this page
+2. You're a friend and want to help with a project - Please continue to this page
+3. You're a recruiter and want me to work for you or a client - Please continue to this page
+
+If you've just come for a short story about me, continue reading
+
+# Why is your Username Copenhagen to london?
+
 Working as a cleaner and store clerk at the moment. So only very little will happen here.\
 For those few who arrive on my page looking to hire me.
 My latest career oriented job was with LD Pensions, developing their various Python and analytics related tools.
