@@ -9,9 +9,3 @@
 ![](https://img.shields.io/badge/ML/DL-Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML/DL-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML/DL-Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MLOps-grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MLOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MLOps-GoogleCloud-%234285F4.svg?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MLOps-github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MLOps-Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white&color=2bbc8a)
-
