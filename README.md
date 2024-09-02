@@ -1,15 +1,13 @@
-# Hi there, I'm Mark Brezina.
+# Hi there, I'm Mark Brezina(Coptolon).
 
-*My username comes from the flight route i frequently travel by*
-
-I'm a passionate software developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate software and quantitative developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, R, C++, JavaScript
-- **Frameworks & Libraries:** TensorFlow, Keras, Pandas, NumPy, SciPy
-- **Tools & Platforms:** Git, Docker, AWS, Kubernetes
-- **Specialties:** Algorithmic Trading, Machine Learning, Data Analysis, Software Architecture
+- **Programming Languages:** Python, R, C++, SAS, VBA and SQL.
+- **Frameworks & Libraries:** TensorFlow, Keras, Pandas, NumPy, SciPy, Matplotlib, ggplot2, dplyr, dbplyr, and more.
+- **Tools & Platforms:** Git, Docker, AWS, Kubernetes, kafka.
+- **Specialties:** Algorithmic Trading, Quantitative analysis(Risk and pricing), Machine Learning, Data Analysis, Software Architecture, Database management.
 
 ## 🚀 Featured Projects
 
@@ -31,10 +29,6 @@ A collection of Python scripts and notebooks for data cleaning, preprocessing, a
 - **Technologies:** Python, Jupyter, Pandas, Scikit-learn
 - **Key Features:** Comprehensive data handling utilities, easy-to-use interface
 
-## 🌍 Open Source Contributions
-
-- **[OpenAI Gym](https://github.com/openai/gym):** Contributed to reinforcement learning environments by adding new scenarios.
-- **[Pandas](https://github.com/pandas-dev/pandas):** Fixed critical bug related to data frame indexing, improving performance.
 
 ## 📫 Get in Touch
 
