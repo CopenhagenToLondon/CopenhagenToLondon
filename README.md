@@ -25,7 +25,7 @@ A combination of experimental and well defined functionalities for algorithmic t
 A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
 
-### [EZAPI - easy api connections](https://github.com/johndoe/trend-detection)
+### [EZAPI - easy api connections](https://github.com/CopenhagenToLondon/EZAPI)
 A python package to connect various finance data REST APIs to your python environment with your API keys and API secrets.
 
 - **Technologies:** Python, pandas, request, Various other dependencies.
