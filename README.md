@@ -21,7 +21,7 @@ A combination of experimental and well defined functionalities for algorithmic t
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
 - **Key Features:** Real-time data integration, customizable trading strategies, performance analytics, common and custom strategy functions.
 
-### [Knowledgebase](https://github.com/johndoe/algotrading-platform)
+### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
 A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
 
