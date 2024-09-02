@@ -2,7 +2,7 @@
 
 I'm a passionate software and quantitative developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Programming Languages:**
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -13,25 +13,29 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 - **Tools & Platforms:** Git, Docker, AWS, Kubernetes, kafka.
 - **Specialties:** Algorithmic Trading, Quantitative analysis(Risk and pricing), Machine Learning, Data Analysis, Software Architecture, Database management.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Algorithmic Trading analytics](https://github.com/johndoe/algotrading-platform)
-A comprehensive algorithmic trading platform that supports back-testing and live trading using Python and C++. The platform includes advanced strategies based on Hidden Markov Models and momentum detection.
+A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
 
-- **Technologies:** Python, C++, SQL, Pandas, NumPy
-- **Key Features:** Real-time data integration, customizable trading strategies, performance analytics
+- **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
+- **Key Features:** Real-time data integration, customizable trading strategies, performance analytics, common and custom strategy functions.
+
+### [Knowledgebase](https://github.com/johndoe/algotrading-platform)
+A comprehensive quantitative finance, mathematics and insurance knowledgebase.
+
 
 ### [EZAPI - easy api connections](https://github.com/johndoe/trend-detection)
-An intelligent system for detecting market trends using machine learning algorithms. It uses historical data to predict future market movements.
+A python package to connect various finance data REST APIs to your python environment with your API keys and API secrets.
 
-- **Technologies:** Python, TensorFlow, Keras, SciPy
-- **Key Features:** Trend detection, signal generation, visualization tools
+- **Technologies:** Python, pandas, request, Various other dependencies.
+- **Key Features:** Data extraction, Data cleanup, Data transformation.
 
-### [Galaxy simulations](https://github.com/johndoe/data-science-toolkit)
-A collection of Python scripts and notebooks for data cleaning, preprocessing, and analysis. Includes tools for handling missing data, feature engineering, and model evaluation.
+### [Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
+A long time project of mine, with focus on proper simulation of spiral galaxies with dark matter and dark energy simulations as well.
 
-- **Technologies:** Python, Jupyter, Pandas, Scikit-learn
-- **Key Features:** Comprehensive data handling utilities, easy-to-use interface
+- **Technologies:** Python, Jupyter, Pandas, matplotlib.
+- **Key Features:** animations and trajectory simulations for stars rotating around a galaxy.
 
 
 ## Get in Touch
