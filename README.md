@@ -1,4 +1,6 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Mark Brezina.
+
+*My username comes from the flight route i frequently travel by*
 
 I'm a passionate software developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
 
