@@ -32,8 +32,8 @@ A collection of Python scripts and notebooks for data cleaning, preprocessing, a
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [John Doe](https://linkedin.com/in/johndoe)
-- **Email:** [johndoe@example.com](mailto:johndoe@example.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/markdbrezina/)
+- **Email:** [mark@brezina.dk](mailto:mark@brezina.dk)
 - **Website/Portfolio:** [johndoe.dev](https://johndoe.dev)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
