@@ -4,7 +4,7 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, R, C++, SAS, VBA and SQL.
+- **Programming Languages:**
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
