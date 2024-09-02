@@ -15,7 +15,7 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 
 ## Featured Projects
 
-### [Algorithmic Trading analytics](https://github.com/johndoe/algotrading-platform)
+### [Algorithmic Trading analytics](https://github.com/CopenhagenToLondon/TMRW)
 A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
 
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
