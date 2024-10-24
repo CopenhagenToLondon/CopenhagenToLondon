@@ -14,6 +14,14 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 - **Specialties:** Algorithmic Trading, Quantitative analysis(Risk and pricing), Machine Learning, Data Analysis, Software Architecture, Database management.
 
 ## Featured Projects
+### [Optimal decision making in chaotic markets]()
+researching whether it's most profitable to minimize risk or trade correctly while having x% correct.
+
+### [claims reserving in the age of longer lifespans]()
+researching how to optimally invest and claims reserve for the time, when human lifespans increase.
+
+### [Counterparty risk and contagion]()
+researching how counterparty risk, credit risk and general liquidity risk can effect one another and how the processes behave.
 
 ### [Algorithmic Trading analytics](https://github.com/CopenhagenToLondon/TMRW)
 A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
@@ -23,7 +31,6 @@ A combination of experimental and well defined functionalities for algorithmic t
 
 ### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
 A comprehensive quantitative finance, mathematics and insurance knowledgebase.
-
 
 ### [Simply stochastic processes](https://github.com/CopenhagenToLondon/EZAPI)
 A python package to assist in running simulations and stochastic processes for quantitative finance.
