@@ -17,7 +17,7 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 
 ## Featured Projects
 
-### [CONTROL]()
+### [CONTROL](https://github.com/CopenhagenToLondon/CONTROL)
 An AGI system to maximize profit and minimize risk, through optimal trading decision making.
 
 ### [TMRW python package](https://github.com/CopenhagenToLondon/TMRW)
