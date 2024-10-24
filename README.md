@@ -35,8 +35,7 @@ A python package to assist in running simulations and stochastic processes for q
 - **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
 
 ### [hobby project on Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
-A long time project of mine, with focus on proper simulation of galaxies with dark matter and dark energy simulations as well.
-
+A hobby project of mine, simulation of galaxies with the most accurate representation. The goal being to come as close to reality as possible.
 - **Technologies:** Python, Jupyter, Pandas, matplotlib.
 - **Key Features:** animations and trajectory simulations for stars rotating around a galaxy.
 
