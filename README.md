@@ -14,6 +14,8 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 - **Specialties:** Algorithmic Trading, Quantitative analysis(Risk and pricing), Machine Learning, Data Analysis, Software Architecture, Database management.
 
 ## Featured Projects
+### [The action-energy conservation principle]()
+
 ### [Optimal decision making in chaotic markets]()
 researching whether it's most profitable to minimize risk or trade correctly while having x% correct.
 
