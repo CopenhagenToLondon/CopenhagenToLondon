@@ -2,6 +2,9 @@
 
 I'm a passionate software and quantitative developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
 
+### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
+A comprehensive quantitative finance, mathematics and insurance knowledgebase.
+
 ## Technologies & Tools
 
 - **Programming Languages:**
@@ -23,9 +26,6 @@ A combination of experimental and well defined functionalities for algorithmic t
 
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
 - **Key Features:** Real-time data integration, customizable trading strategies, performance analytics, common and custom strategy functions.
-
-### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
-A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
 ### [Simulation of market dynamics](https://github.com/CopenhagenToLondon/EZAPI)
 A python package to assist in running simulations and stochastic processes for quantitative finance.
