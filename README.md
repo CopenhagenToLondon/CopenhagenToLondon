@@ -20,7 +20,7 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 ### [CONTROL]()
 An AGI system to maximize profit and minimize risk, through optimal trading decision making.
 
-### [TMRW python package]()
+### [TMRW python package](https://github.com/CopenhagenToLondon/TMRW)
 My personalized python package for use with data extraction, data transformation, data analysis and machine learning.
 TMRW stands for tomorrow, without double r and o's.
 
@@ -29,7 +29,7 @@ A combination of experimental and well defined functionalities for algorithmic t
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
 - **Key Features:** Real-time data integration, customizable trading strategies, performance analytics, common and custom strategy functions.
 
-### [GoldenDice](https://github.com/CopenhagenToLondon/EZAPI)
+### [GoldenDice](https://github.com/CopenhagenToLondon/GoldenDice)
 A python package to assist in running simulations and stochastic processes for quantitative finance. 
 - **Technologies:** Python, pandas, numpy, scipy and matplotlib
 - **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
