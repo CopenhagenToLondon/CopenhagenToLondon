@@ -17,6 +17,10 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 
 ## Featured Projects
 
+### [CONTROL]()
+My personalized python package for use with data extraction, data transformation, data analysis and machine learning.
+TMRW stands for tomorrow, without double r and o's.
+
 ### [TMRW python package]()
 My personalized python package for use with data extraction, data transformation, data analysis and machine learning.
 TMRW stands for tomorrow, without double r and o's.
