@@ -28,13 +28,12 @@ A combination of experimental and well defined functionalities for algorithmic t
 ### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
 A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
-### [Simply stochastic processes](https://github.com/CopenhagenToLondon/EZAPI)
+### [Simulation of market dynamics](https://github.com/CopenhagenToLondon/EZAPI)
 A python package to assist in running simulations and stochastic processes for quantitative finance.
-
 - **Technologies:** Python, pandas, numpy, scipy and matplotlib
 - **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
 
-### [hobby project on Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
+### [Hobby project on Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
 A hobby project of mine, simulation of galaxies with the most accurate representation. The goal being to come as close to reality as possible.
 - **Technologies:** Python, Jupyter, Pandas, matplotlib.
 - **Key Features:** animations and trajectory simulations for stars rotating around a galaxy.
