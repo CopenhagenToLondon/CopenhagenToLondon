@@ -21,7 +21,7 @@ A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 ### [TMRW python package]()
 
 
-### [Algorithmic Trading analytics](https://github.com/CopenhagenToLondon/TMRW)
+### [WTECH](https://github.com/CopenhagenToLondon/WTECH)
 A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
 
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
