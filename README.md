@@ -2,8 +2,7 @@
 
 I'm a passionate software and quantitative developer with a focus on algorithmic trading and data science. I love building innovative solutions that solve real-world problems, and I'm always eager to learn new technologies and improve my skills.
 
-### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
-A comprehensive quantitative finance, mathematics and insurance knowledgebase.
+
 
 ## Technologies & Tools
 
@@ -19,18 +18,23 @@ A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 ## Featured Projects
 
 ### [TMRW python package]()
-
+My personalized python package for use with data extraction, data transformation, data analysis and machine learning.
+TMRW stands for tomorrow, without double r and o's.
 
 ### [WTECH](https://github.com/CopenhagenToLondon/WTECH)
 A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
-
 - **Technologies:** Python, C++, SQL, Pandas, NumPy, SciPy, Matplotlib, and more.
 - **Key Features:** Real-time data integration, customizable trading strategies, performance analytics, common and custom strategy functions.
 
-### [Simulation of market dynamics](https://github.com/CopenhagenToLondon/EZAPI)
-A python package to assist in running simulations and stochastic processes for quantitative finance.
+### [GoldenDice](https://github.com/CopenhagenToLondon/EZAPI)
+A python package to assist in running simulations and stochastic processes for quantitative finance. 
 - **Technologies:** Python, pandas, numpy, scipy and matplotlib
 - **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
+
+## Secondary Projects
+
+### [Knowledgebase](https://github.com/CopenhagenToLondon/Knowledgebase)
+A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
 ### [Hobby project on Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
 A hobby project of mine, simulation of galaxies with the most accurate representation. The goal being to come as close to reality as possible.
@@ -38,7 +42,7 @@ A hobby project of mine, simulation of galaxies with the most accurate represent
 - **Key Features:** animations and trajectory simulations for stars rotating around a galaxy.
 
 
-## Future projects
+## Future Projects
 
 ### [The action-energy conservation principle]()
 mean field games, advanced market simulation, advanced predictive forecasting.
