@@ -25,11 +25,11 @@ A combination of experimental and well defined functionalities for algorithmic t
 A comprehensive quantitative finance, mathematics and insurance knowledgebase.
 
 
-### [EZAPI - easy api connections](https://github.com/CopenhagenToLondon/EZAPI)
-A python package to connect various finance data REST APIs to your python environment with your API keys and API secrets.
+### [Simply stochastic processes](https://github.com/CopenhagenToLondon/EZAPI)
+A python package to assist in running simulations and stochastic processes for quantitative finance.
 
-- **Technologies:** Python, pandas, request, Various other dependencies.
-- **Key Features:** Data extraction, Data cleanup, Data transformation.
+- **Technologies:** Python, pandas, numpy, scipy and matplotlib
+- **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
 
 ### [Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
 A long time project of mine, with focus on proper simulation of spiral galaxies with dark matter and dark energy simulations as well.
