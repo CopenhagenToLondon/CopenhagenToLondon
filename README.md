@@ -19,12 +19,6 @@ I'm a passionate software and quantitative developer with a focus on algorithmic
 ### [Optimal decision making in chaotic markets]()
 researching whether it's most profitable to minimize risk or trade correctly while having x% correct.
 
-### [claims reserving in the age of longer lifespans]()
-researching how to optimally invest and claims reserve for the time, when human lifespans increase.
-
-### [Counterparty risk and contagion]()
-researching how counterparty risk, credit risk and general liquidity risk can effect one another and how the processes behave.
-
 ### [Algorithmic Trading analytics](https://github.com/CopenhagenToLondon/TMRW)
 A combination of experimental and well defined functionalities for algorithmic trading that supports back-testing and live trading using Python and C++. The repository includes advanced strategies based on Hidden Markov Models and momentum detection, as well as singular functions and notebooks.
 
@@ -40,8 +34,8 @@ A python package to assist in running simulations and stochastic processes for q
 - **Technologies:** Python, pandas, numpy, scipy and matplotlib
 - **Key Features:** Data generation, Statistical mathematics and simulation of scenarios.
 
-### [Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
-A long time project of mine, with focus on proper simulation of spiral galaxies with dark matter and dark energy simulations as well.
+### [hobby project on Galaxy simulations](https://github.com/CopenhagenToLondon/Galaksim)
+A long time project of mine, with focus on proper simulation of galaxies with dark matter and dark energy simulations as well.
 
 - **Technologies:** Python, Jupyter, Pandas, matplotlib.
 - **Key Features:** animations and trajectory simulations for stars rotating around a galaxy.
